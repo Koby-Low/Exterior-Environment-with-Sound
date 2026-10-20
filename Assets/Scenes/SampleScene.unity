@@ -37943,12 +37943,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f672883091dcf834ebec79640e83c47f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayRandomSound
-  numberOfSounds: 1
+  numberOfSounds: 3
   randomSound:
   - {fileID: 8300000, guid: 05e7d7f263fa646baa22bbbedf097ac0, type: 3}
   - {fileID: 8300000, guid: 1f537aa7013d744d0b2cca5f5282ca5d, type: 3}
   - {fileID: 8300000, guid: bb611243fc4804bdb89498b788653551, type: 3}
-  minimumTime: 5
+  minimumTime: 10
   maximumTime: 20
 --- !u!1001 &1473751205
 PrefabInstance:
